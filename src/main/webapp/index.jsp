@@ -8,7 +8,7 @@
   <br>
   <main>
     <h1 class="h2 color_orange text-center">
-      Student peer evaluations/feedback, shareable instructor comments, and more...
+      Hello Github! Kwilsono checking-in, getting ready to attempt a d.FirstTimers issue!
     </h1>
     <div class="row">
       <img class="center-block img-responsive" alt="Overview of TEAMMATES - anonymous peer feedback and confidential peer evaluations" src="images/overview.png">
